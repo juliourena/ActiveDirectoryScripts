@@ -1,6 +1,5 @@
 """
-This script allows us to add a user to a group using LDAP, useful when we have writes to add users to group but we are not admin on the remote machine.
-See README.md for more information.
+This script allows us to add a user to a group using LDAP, which is useful when we have the privilege to add users to a group, but we are not admins on the Domain Controller.
 
 Author: @JulioUrena
 License: GPL-3.0 license
